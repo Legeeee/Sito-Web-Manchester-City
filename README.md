@@ -1,1 +1,2 @@
 # Sito-Web-Manchester-City
+Questo sito è un lavoro scolastico creato con html e css , che ha come argomento principale la squadra inglese Manchester City e ne spiega la storia e le sue caratteristiche principali.
